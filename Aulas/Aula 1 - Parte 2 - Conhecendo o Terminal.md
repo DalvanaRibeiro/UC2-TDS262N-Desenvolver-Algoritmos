@@ -19,7 +19,7 @@ ENTRADA → PROCESSAMENTO → SAÍDA
 
 O usuário fornece **dados e instruções**, o computador realiza o **processamento** e produz dados ou informações como **saída**.
 
-<img width="450" height="162" alt="image" src="https://github.com/user-attachments/assets/76e34da9-5a9e-409d-8f1f-d1040d04e96f" />
+<img width="550" height="162" alt="image" src="https://github.com/user-attachments/assets/76e34da9-5a9e-409d-8f1f-d1040d04e96f" />
 
 O funcionamento digital utiliza dois estados fundamentais:
 
