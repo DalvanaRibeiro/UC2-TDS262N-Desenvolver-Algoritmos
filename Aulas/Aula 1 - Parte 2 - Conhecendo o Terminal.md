@@ -19,6 +19,8 @@ ENTRADA → PROCESSAMENTO → SAÍDA
 
 O usuário fornece **dados e instruções**, o computador realiza o **processamento** e produz dados ou informações como **saída**.
 
+<img width="517" height="162" alt="image" src="https://github.com/user-attachments/assets/76e34da9-5a9e-409d-8f1f-d1040d04e96f" />
+
 O funcionamento digital utiliza dois estados fundamentais:
 
 - `0` → desligado
@@ -253,7 +255,7 @@ Quando necessário, os dados são salvos em HD ou SSD.
 
 O resultado é apresentado ao usuário.
 
-<img width="517" height="162" alt="image" src="https://github.com/user-attachments/assets/76e34da9-5a9e-409d-8f1f-d1040d04e96f" />
+
 
 
 ---
