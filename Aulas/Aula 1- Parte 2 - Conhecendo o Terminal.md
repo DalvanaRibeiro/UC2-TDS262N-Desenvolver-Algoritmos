@@ -355,5 +355,5 @@ tail -n 100 pokemons.txt
 ---
 
 
-<img width="374" height="534" alt="image" src="https://github.com/user-attachments/assets/360bcf78-046f-4ee5-b6b1-18a788164046" />
+<img width="400" height="282" alt="image" src="https://github.com/user-attachments/assets/f2448659-8d13-49e1-b123-e0114c926f9a" />
 
