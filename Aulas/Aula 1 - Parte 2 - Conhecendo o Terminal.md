@@ -3,7 +3,7 @@
 > **Unidade Curricular:** UC2 — Desenvolver Algoritmos  
 > **Material de apoio:** Conhecendo o Computador e o Terminal  
 > **Objetivo:** compreender os principais conceitos de hardware, software, sistema operacional, arquivos, pastas, interfaces e comandos básicos de terminal.
-> **Link para os Slides:**https://canva.link/qpmb624ue3qktf2
+> **Link para os Slides:** https://canva.link/qpmb624ue3qktf2
 
 ---
 
