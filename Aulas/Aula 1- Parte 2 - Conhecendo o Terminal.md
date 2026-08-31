@@ -2,6 +2,7 @@
 # 13. Interfaces: GUI e CLI
 
 Uma **interface** permite a comunicação entre diferentes elementos.
+
 **Link para Aula**: https://canva.link/qpmb624ue3qktf2
 
 ## GUI — Graphical User Interface
