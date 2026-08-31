@@ -2,6 +2,7 @@
 # 13. Interfaces: GUI e CLI
 
 Uma **interface** permite a comunicação entre diferentes elementos.
+**Link para Aula**: https://canva.link/qpmb624ue3qktf2
 
 ## GUI — Graphical User Interface
 
@@ -329,61 +330,10 @@ tail -n 100 pokemons.txt
 
 ---
 
-# 19. Mapa mental
-
-```text
-COMPUTADOR
-│
-├── Hardware
-│   ├── CPU
-│   ├── RAM
-│   ├── Placa-mãe
-│   ├── HD / SSD
-│   ├── GPU
-│   ├── Fonte
-│   └── Rede
-│
-├── Software
-│   ├── Sistema Operacional
-│   ├── Software de Sistema
-│   └── Aplicativos
-│
-├── Entrada
-│   ├── Teclado
-│   └── Mouse
-│
-├── Processamento
-│   ├── CPU
-│   └── RAM
-│
-├── Armazenamento
-│   ├── HD
-│   └── SSD
-│
-├── Saída
-│   ├── Monitor
-│   └── Impressora
-│
-└── Interfaces
-    ├── GUI
-    └── CLI
-        └── Terminal
-            ├── pwd
-            ├── ls
-            ├── cd
-            ├── mkdir
-            ├── rm
-            ├── mv
-            ├── cp
-            ├── cat
-            ├── head
-            ├── tail
-            └── grep
-```
 
 ---
 
-# 20. Comandos para consulta rápida
+# 19. Comandos para consulta rápida
 
 | Comando | Função |
 |---|---|
@@ -404,46 +354,6 @@ COMPUTADOR
 
 ---
 
-# 21. O que você deve saber ao final
 
-Ao concluir este conteúdo, você deve conseguir:
+<img width="374" height="534" alt="image" src="https://github.com/user-attachments/assets/360bcf78-046f-4ee5-b6b1-18a788164046" />
 
-- diferenciar **hardware** e **software**;
-- identificar os principais componentes de um computador;
-- compreender o fluxo **entrada → processamento → armazenamento → saída**;
-- explicar a função de um **sistema operacional**;
-- diferenciar **arquivos** e **pastas**;
-- diferenciar **GUI** e **CLI**;
-- compreender o papel do **terminal**;
-- navegar entre diretórios;
-- criar diretórios;
-- listar, copiar, mover e remover arquivos;
-- visualizar arquivos pelo terminal;
-- localizar informações utilizando `grep`;
-- utilizar `head` e `tail` para selecionar partes de arquivos.
-
----
-
-## Dica final
-
-> **Não tente apenas decorar os comandos. Use-os.**
-
-O terminal se torna mais simples à medida que você pratica. Antes de executar um comando, procure compreender três coisas:
-
-1. **Onde estou?** → `pwd`
-2. **O que existe aqui?** → `ls`
-3. **O que quero fazer?** → escolher o comando adequado.
-
-```bash
-pwd
-ls
-cd projeto
-ls
-```
-
-Essa sequência simples já representa uma habilidade fundamental para quem está começando a desenvolver algoritmos e sistemas.
-
----
-
-**UC2 — Desenvolver Algoritmos**  
-**Material de estudo: Conhecendo o Computador e o Terminal**
