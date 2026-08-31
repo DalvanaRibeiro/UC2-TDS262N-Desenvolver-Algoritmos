@@ -457,5 +457,8 @@ Essa sequência simples já representa uma habilidade fundamental para quem est�
 
 ---
 
-**UC2 — Desenvolver Algoritmos**  
-**Material de estudo: Conhecendo o Computador e o Terminal**
+**Fluxo de Funcionamento do Computador**  
+
+<img width="933" height="516" alt="image" src="https://github.com/user-attachments/assets/1d643560-8966-4f75-ba7e-50d6e3fe330d" />
+
+
