@@ -43,7 +43,9 @@ Computador de mesa normalmente composto por:
 - outros periféricos.
 
 É utilizado, em geral, em um local fixo.
+
 <img width="365" height="285" alt="image" src="https://github.com/user-attachments/assets/9cc800ef-746f-46f5-98c5-88f4e70675f0" />
+
 
 
 ### Notebook
@@ -55,7 +57,8 @@ Computador portátil que integra em um único equipamento:
 - touchpad;
 - componentes internos;
 - bateria.
-- <img width="347" height="247" alt="image" src="https://github.com/user-attachments/assets/8a06e4b1-3b6b-4280-885d-992ed96f3839" />
+  
+  <img width="347" height="247" alt="image" src="https://github.com/user-attachments/assets/8a06e4b1-3b6b-4280-885d-992ed96f3839" />
 
 
 ### Tablet
