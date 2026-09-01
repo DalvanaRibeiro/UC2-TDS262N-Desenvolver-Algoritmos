@@ -157,7 +157,7 @@ cd Documentos
 
 ## `cd..`
 
-**Sair da pasta**
+Sair da pasta
 
 Permite voltar para o diretório.
 
