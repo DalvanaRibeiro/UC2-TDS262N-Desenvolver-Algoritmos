@@ -155,6 +155,16 @@ cd Documentos
 
 ---
 
+## `cd..`
+
+**Sair da pasta **
+
+Permite voltar para o diretório.
+
+```bash
+cd ..
+```
+
 ## `mkdir`
 
 **Make Directory**
