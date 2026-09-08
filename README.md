@@ -1,4 +1,4 @@
-# 💻 UC — Desenvolver Algoritmos
+# 💻 UC 2 — Desenvolver Algoritmos
 
 ## 👋 Bem-vindos!
 
