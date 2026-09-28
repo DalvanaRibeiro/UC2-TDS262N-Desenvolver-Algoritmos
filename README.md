@@ -64,7 +64,7 @@ Clique em:
 ```text
 Code → HTTPS
 ```
-<img width="1443" height="784" alt="image" src="https://github.com/user-attachments/assets/eb166048-dad8-40c3-9353-a5407b7b6794" />
+<img width="843" height="484" alt="image" src="https://github.com/user-attachments/assets/eb166048-dad8-40c3-9353-a5407b7b6794" />
 
 
 Copie o endereço.
@@ -151,16 +151,27 @@ git push
 
 Ou seja:
 
-```text
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+<pre>
 📥 CHEGUEI → PULL
 
 💻 PROGRAMEI
 
 📤 TERMINEI → PUSH
-```
-<img width="319" height="315" alt="image" src="https://github.com/user-attachments/assets/7fecc7eb-af64-48fd-b70f-7163f64cd565" />
+</pre>
 
----
+</td>
+
+<td width="45%" align="right">
+
+<img width="319" alt="Fluxo Git" src="https://github.com/user-attachments/assets/7fecc7eb-af64-48fd-b70f-7163f64cd565">
+
+</td>
+</tr>
+</table>
 
 # 💻 4. Agora você pode programar!
 
